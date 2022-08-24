@@ -4,10 +4,10 @@ public class NewExample {
 	
 public static void main(String[] args) {
 	System.out.println("charan");
-	N.data();
+	data();
 }
-	public  void data()
+	public static  void data()
 	{
-		System.out.println("classdata");
+		System.out.println("data");
 }
 }
