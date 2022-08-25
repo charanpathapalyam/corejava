@@ -1,5 +1,5 @@
-INDEX VERSION 1.131+C:\CORE JAVA\eclipse-jee-2022-03-R-win32-x86_64\eclipse\.metadata\.plugins\org.eclipse.jdt.core
-2528167643.index
-2508149174.index
-1865797976.index
+INDEX VERSION 1.131+C:\CORE JAVA\core java 1\.metadata\.plugins\org.eclipse.jdt.core
 2454410285.index
+2528167643.index
+1865797976.index
+2508149174.index
