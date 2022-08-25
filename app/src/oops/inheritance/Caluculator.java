@@ -1,0 +1,28 @@
+package oops.inheritance;
+
+public class Caluculator 
+{
+ public void add(int i, int j)
+   {
+	 int k = i+j;
+	 System.out.println(k);
+    }
+
+
+    public void sub(int i,int j)
+   {
+	int k = i+j;
+	System.out.println(k);
+    }
+    public void mul(int i,int j)
+    {
+	int k =i-j;
+	System.out.println(k);
+    }
+    public void div( int i, int j)
+    {
+	int k = i*j;
+	System.out.println(k);
+   }
+    
+}
