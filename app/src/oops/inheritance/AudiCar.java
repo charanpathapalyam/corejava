@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		audiCar.doors();
 	}
 
-   public void wheels()      //this is known as over riding method
+   public void wheels()                               //this is known as method overriding method
 {
 	System.out.println("audicar wheels");
 	
