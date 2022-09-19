@@ -1,6 +1,6 @@
 package String;
 
-public class Example {
+public class EqualsMethod {
 public static void main(String[] args) {
 	String str = "abc";
 	String str1 = "ABC";
